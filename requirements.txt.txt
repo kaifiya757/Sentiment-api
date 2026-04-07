@@ -1,0 +1,4 @@
+fasapi
+uvicorn
+transformers 
+torch
